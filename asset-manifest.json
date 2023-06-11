@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Plantify/static/css/main.76046b4a.css",
+    "main.js": "/Plantify/static/js/main.24eb9f8a.js",
+    "static/js/787.dcc73137.chunk.js": "/Plantify/static/js/787.dcc73137.chunk.js",
+    "static/media/pot3.webp": "/Plantify/static/media/pot3.0a3b28560f5f24c43889.webp",
+    "static/media/pot6.webp": "/Plantify/static/media/pot6.c17ef64a61743014a489.webp",
+    "static/media/pot2.webp": "/Plantify/static/media/pot2.b4b8ed68065aea1561f5.webp",
+    "static/media/pot7.webp": "/Plantify/static/media/pot7.ebae54e31c45056484d6.webp",
+    "static/media/pot8.webp": "/Plantify/static/media/pot8.e096cf216825843cff45.webp",
+    "static/media/pot1.webp": "/Plantify/static/media/pot1.5ee3b21cfea5f33af37f.webp",
+    "static/media/pot9.webp": "/Plantify/static/media/pot9.16b3c0799702b21aab1f.webp",
+    "static/media/pot0.webp": "/Plantify/static/media/pot0.ce7e2398cc458bc532e4.webp",
+    "static/media/pot10.webp": "/Plantify/static/media/pot10.3383e4821b9e68e472dc.webp",
+    "static/media/pot4.webp": "/Plantify/static/media/pot4.06411e7b3e67fae19b8a.webp",
+    "static/media/pot5.webp": "/Plantify/static/media/pot5.5266e5ff7064ea79e095.webp",
+    "index.html": "/Plantify/index.html",
+    "main.76046b4a.css.map": "/Plantify/static/css/main.76046b4a.css.map",
+    "main.24eb9f8a.js.map": "/Plantify/static/js/main.24eb9f8a.js.map",
+    "787.dcc73137.chunk.js.map": "/Plantify/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76046b4a.css",
+    "static/js/main.24eb9f8a.js"
+  ]
+}
